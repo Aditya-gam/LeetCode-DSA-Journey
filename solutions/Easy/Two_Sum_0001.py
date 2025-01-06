@@ -24,3 +24,8 @@ sol = Solution()
 print(sol.twoSum([2, 7, 11, 15], 9))  # Output: [0, 1]
 print(sol.twoSum([3, 2, 4], 6))       # Output: [1, 2]
 print(sol.twoSum([3, 3], 6))          # Output: [0, 1]
+
+# Complexity Analysis
+# Time Complexity:O(n) - We iterate through the array once, and each lookup or insertion in the hash table is an O(1) operation.
+
+# Space Complexity:O(n) - In the worst case, we store all n elements in the hash table.

@@ -26,3 +26,7 @@ print(sol.removeDuplicates(nums1))  # Output: 2, [1, 2]
 
 nums2 = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
 print(sol.removeDuplicates(nums2))  # Output: 5, [0, 1, 2, 3, 4]
+
+# Complexity Analysis
+# Time Complexity: O(n) We traverse the array once, where n is the length of the array.
+# Space Complexity: O(1) No extra space is used.

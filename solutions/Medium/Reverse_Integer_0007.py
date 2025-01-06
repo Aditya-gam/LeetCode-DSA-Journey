@@ -32,3 +32,9 @@ print(sol.reverse(-123))  # Output: -321
 print(sol.reverse(120))   # Output: 21
 print(sol.reverse(0))     # Output: 0
 print(sol.reverse(1534236469))  # Output: 0 (overflow case)
+
+
+# Complexity Analysis
+# Time Complexity:O(log10n)
+# The number of digits in x is proportional to log10(x). We process each digit once.
+# Space Complexity: O(1) as we use only a constant amount of extra space.

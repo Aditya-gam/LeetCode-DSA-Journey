@@ -34,3 +34,7 @@ class Solution(object):
 sol = Solution()
 print(sol.minOperations("110"))      # Output: [1, 1, 3]
 print(sol.minOperations("001011"))   # Output: [11, 8, 5, 4, 3, 4]
+
+# Complexity Analysis
+# Time Complexity: O(n) The left-to-right and right-to-left passes each take O(n).
+# Space Complexity: O(n) The output array answer requires O(n) space.

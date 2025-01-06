@@ -23,3 +23,10 @@ sol = Solution()
 print(sol.check([3, 4, 5, 1, 2]))  # Output: True
 print(sol.check([2, 1, 3, 4]))     # Output: False
 print(sol.check([1, 2, 3]))        # Output: True
+
+# Complexity Analysis
+# Time Complexity:
+# O(n), where n is the length of the array. We iterate through the array once.
+
+# Space Complexity:
+# O(1), as we use only a constant amount of extra space.

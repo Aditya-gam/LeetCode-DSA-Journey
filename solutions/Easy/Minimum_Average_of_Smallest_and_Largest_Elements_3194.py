@@ -32,3 +32,13 @@ sol = Solution()
 print(sol.minimumAverage([7, 8, 3, 4, 15, 13, 4, 1]))  # Output: 5.5
 print(sol.minimumAverage([1, 9, 8, 3, 10, 5]))         # Output: 5.5
 print(sol.minimumAverage([1, 2, 3, 7, 8, 9]))          # Output: 5.0
+
+
+# Complexity Analysis
+# Time Complexity:
+
+# Sorting the array: O(nlogn)
+# Iterating through the array to compute averages: O(n)
+# Finding the minimum in averages: O(n)
+# Overall: O(nlogn)
+# Space Complexity: O(n) for the averages array.
