@@ -11,7 +11,10 @@ def discover_and_run_tests():
 
     # Discover all test files in the 'tests' directory
     test_loader = unittest.TestLoader()
-    test_suite = test_loader.discover(start_dir='tests', pattern='test_*.py')
+    print(f"Discovering tests in: {os.path.abspath('tests')}")
+    test_suite = test_loader.discover(start_dir=os.path.join(
+        os.path.dirname(__file__), 'tests'), pattern='test_*.py')
+    print(f"Found tests: {test_suite.countTestCases()} cases")
 
     # Run the test suite
     test_runner = unittest.TextTestRunner(verbosity=2)
