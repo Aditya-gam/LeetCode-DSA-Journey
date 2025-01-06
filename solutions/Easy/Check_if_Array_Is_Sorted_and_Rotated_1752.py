@@ -16,3 +16,10 @@ class Solution(object):
 
         # If there's at most one drop, it's valid
         return count <= 1
+
+
+# Example test cases
+sol = Solution()
+print(sol.check([3, 4, 5, 1, 2]))  # Output: True
+print(sol.check([2, 1, 3, 4]))     # Output: False
+print(sol.check([1, 2, 3]))        # Output: True

@@ -25,3 +25,10 @@ class Solution(object):
 
         # Return the minimum average
         return min(averages)
+
+
+# Example test cases
+sol = Solution()
+print(sol.minimumAverage([7, 8, 3, 4, 15, 13, 4, 1]))  # Output: 5.5
+print(sol.minimumAverage([1, 9, 8, 3, 10, 5]))         # Output: 5.5
+print(sol.minimumAverage([1, 2, 3, 7, 8, 9]))          # Output: 5.0

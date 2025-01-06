@@ -23,3 +23,12 @@ class Solution(object):
             reversed_num = reversed_num * 10 + digit
 
         return sign * reversed_num
+
+
+# Example test cases
+sol = Solution()
+print(sol.reverse(123))   # Output: 321
+print(sol.reverse(-123))  # Output: -321
+print(sol.reverse(120))   # Output: 21
+print(sol.reverse(0))     # Output: 0
+print(sol.reverse(1534236469))  # Output: 0 (overflow case)
