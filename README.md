@@ -24,10 +24,10 @@ Each solution is stored in a separate file, organized in directories based on pr
 
 ## Solved Problems
 
-| #   | Difficulty | Title                                         | Problem Link                                 | Solution Link                               |
-| --- | ---------- | --------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| 1   | Easy       | [Two Sum](https://leetcode.com/problems/two-sum) | [View Problem](https://leetcode.com/problems/two-sum) | [Solution](solutions/Easy/two_sum.py)       |
-| 2   | Medium     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [View Problem](https://leetcode.com/problems/add-two-numbers) | [Solution](solutions/Medium/add_two_numbers.py) |
+| #   | Difficulty | Title                                         | Solution Link                               |
+| --- | ---------- | --------------------------------------------- | ------------------------------------------- |
+| 1   | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/Aditya-gam/LeetCode-DSA-Journey/blob/master/solutions/Easy/Two_Sum_0001.py)       |
+| 2   | Easy     | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Solution](solutions/Easy/Check_if_Array_Is_Sorted_and_Rotated_1752.py) |
 
 ## Contributing
 
