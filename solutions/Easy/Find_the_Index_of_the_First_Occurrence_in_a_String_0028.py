@@ -28,3 +28,11 @@ print(sol.strStr("leetcode", "leeto"))  # Output: -1
 print(sol.strStr("hello", "ll"))  # Output: 2
 print(sol.strStr("aaaaa", "bba"))  # Output: -1
 print(sol.strStr("", ""))  # Output: 0
+
+# Complexity Analysis
+# Time Complexity: O(m⋅n)
+# m: Length of haystack
+# n: Length of needle
+# We compare substrings of length n at each of the m−n+1 starting positions.
+
+# Space Complexity: O(1) No additional space is required beyond the input strings and loop variables.

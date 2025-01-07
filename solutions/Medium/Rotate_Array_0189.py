@@ -38,3 +38,9 @@ print(nums2)  # Output: [3, 99, -1, -100]
 nums3 = [1, 2, 3, 4, 5, 6]
 sol.rotate(nums3, 4)
 print(nums3)  # Output: [3, 4, 5, 6, 1, 2]
+
+# Complexity Analysis
+# Time Complexity: O(n)
+
+# Each reversal takes O(n), and we perform three reversals, so the total time complexity is O(n).
+# Space Complexity: O(1) No extra space is used except for a few variables.
