@@ -26,6 +26,7 @@ print(sol.containsDuplicate([1, 2, 3, 4, 5, 6, 7, 8, 9, 9]))  # Output: True
 # Complexity Analysis
 # Time Complexity: O(n)
 # We iterate through the array once, and each set operation (insertion and lookup) is O(1) on average.
+# The time complexity is O(n) in total.
 
 # Space Complexity: O(n)
 # The set stores up to n elements in the worst case.
