@@ -10,10 +10,18 @@ class Solution(object):
 
 
 sol = Solution()
-print(sol.prefixCount(["dog", "cat", "app", "apple", "doggy"], "app"))  # 2
-print(sol.prefixCount(["dog", "cat", "app", "apple", "doggy"], "dog"))  # 2
-print(sol.prefixCount(["dog", "cat", "app", "apple", "doggy"], "c"))  # 1
-print(sol.prefixCount(["dog", "cat", "app", "apple", "doggy"], "d"))  # 2
+# Output: 2
+print(sol.prefixCount(["dog", "cat", "app", "apple", "doggy"], "app"))
+# Output: 2
+print(sol.prefixCount(["dog", "cat", "app", "apple", "doggy"], "dog"))
+# Output: 1
+print(sol.prefixCount(["dog", "cat", "app", "apple", "doggy"], "c"))
+# Output: 2
+print(sol.prefixCount(["dog", "cat", "app", "apple", "doggy"], "d"))
+# Output: 2
+print(sol.prefixCount(["pay", "attention", "practice", "attend"], "at"))
+# Output: 0
+print(sol.prefixCount(["leetcode", "win", "loops", "success"], "code"))
 
 # Complexity Analysis
 # Time complexity : O(n). We iterate over the list of words of length n once.
