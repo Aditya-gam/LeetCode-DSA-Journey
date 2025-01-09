@@ -17,7 +17,7 @@ Each solution is stored in a separate file, organized in directories based on pr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/LeetCode-DSA-Journey.git
+   git clone https://github.com/Aditya-gam/LeetCode-DSA-Journey.git
    ```
 2. Navigate through the directories to explore solutions based on difficulty.
 3. Refer to the table below for specific problems and solutions.
