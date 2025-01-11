@@ -21,3 +21,18 @@ class Solution(object):
                 high = mid - 1
 
         return result
+
+
+# Example test cases
+sol = Solution()
+print(sol.mySqrt(4))  # Output: 2
+print(sol.mySqrt(8))  # Output: 2
+print(sol.mySqrt(9))  # Output: 3
+print(sol.mySqrt(16))  # Output: 4
+print(sol.mySqrt(25))  # Output: 5
+print(sol.mySqrt(36))  # Output: 6
+
+# Complexity Analysis
+# Time Complexity: O(logx), where x is the input value. This is because we halve the search range in each iteration of the binary search.
+
+# Space Complexity: O(1), as no additional data structures are used.
