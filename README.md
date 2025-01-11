@@ -22,7 +22,7 @@ Each solution is stored in a separate file, organized in directories based on pr
 2. Navigate through the directories to explore solutions based on difficulty.
 3. Refer to the table below for specific problems and solutions.
 
-## Solved Problems
+<!-- ## Solved Problems
 
 | #   | Difficulty | Title                                         | Solution Link                               |
 | --- | ---------- | --------------------------------------------- | ------------------------------------------- |
@@ -57,7 +57,7 @@ Each solution is stored in a separate file, organized in directories based on pr
 | 0916   | Medium       | [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [Solution](solutions/Medium/Word_Subsets_0916.py)       |
 | 1400   | Medium       | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/) | [Solution](solutions/Medium/Construct_K_Palindrome_Strings_1400.py)       |
 | 1769   | Medium       | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | [Solution](solutions/Medium/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box_1769.py)       |
-| 2593   | Medium       | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/) | [Solution](solutions/Medium/Find_Score_of_an_Array_After_Marking_All_Elements_2593.py)       |
+| 2593   | Medium       | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/) | [Solution](solutions/Medium/Find_Score_of_an_Array_After_Marking_All_Elements_2593.py)       | -->
 
 
 
