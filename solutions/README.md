@@ -20,6 +20,7 @@
 | 0268   | Easy       | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Solution](Easy/Missing_Number_0268.py)       |
 | 0283   | Easy       | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Easy/Move_Zeroes_0283.py)       |
 | 0350   | Easy       | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](Easy/Intersection_of_Two_Arrays_II_0350.py)       |
+| 0374   | Easy       | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Solution](Easy/Guess_Number_Higher_or_Lower_0374.py)       |
 | 0628   | Easy       | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Solution](Easy/Maximum_Product_of_Three_Numbers_0628.py)       |
 | 0700   | Easy       | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Solution](Easy/Search_in_a_Binary_Search_Tree_0700.py)       |
 | 0872   | Easy       | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Solution](Easy/Leaf_Similar_Trees_0872.py)       |
@@ -37,6 +38,7 @@
 | 0189   | Medium       | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution](Medium/Rotate_Array_0189.py)       |
 | 0199   | Medium       | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](Medium/Binary_Tree_Right_Side_View_0199.py)       |
 | 0204   | Medium       | [Count Primes](https://leetcode.com/problems/count-primes/description/) | [Solution](Medium/Count_Primes_0204.py)       |
+| 0215   | Medium       | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Solution](Medium/Kth_Largest_Element_in_an_Array_0215.py)       |
 | 0236   | Medium       | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Solution](Medium/Lowest_Common_Ancestor_of_a_Binary_Tree_0236.py)       |
 | 0328   | Medium       | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Solution](Medium/Odd_Even_Linked_List_0328.py)       |
 | 0394   | Medium       | [Decode String](https://leetcode.com/problems/decode-string/description/) | [Solution](Medium/Decode_String_0394.py)       |
@@ -50,6 +52,7 @@
 | 0739   | Medium       | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Solution](Medium/Daily_Temperatures_0739.py)       |
 | 0841   | Medium       | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [Solution](Medium/Keys_and_Rooms_0841.py)       |
 | 0916   | Medium       | [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [Solution](Medium/Word_Subsets_0916.py)       |
+| 0994   | Medium       | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | [Solution](Medium/Rotting_Oranges_0994.py)       |
 | 1161   | Medium       | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) | [Solution](Medium/Maximum_Level_Sum_of_a_Binary_Tree_1161.py)       |
 | 1372   | Medium       | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/) | [Solution](Medium/Longest_ZigZag_Path_in_a_Binary_Tree_1372.py)       |
 | 1400   | Medium       | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/) | [Solution](Medium/Construct_K_Palindrome_Strings_1400.py)       |
@@ -60,8 +63,13 @@
 | 2095   | Medium       | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [Solution](Medium/Delete_the_Middle_Node_of_a_Linked_List_2095.py)       |
 | 2116   | Medium       | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/) | [Solution](Medium/Check_if_a_Parentheses_String_Can_Be_Valid_2116.py)       |
 | 2130   | Medium       | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | [Solution](Medium/Maximum_Twin_Sum_of_a_Linked_List_2130.py)       |
+| 2300   | Medium       | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) | [Solution](Medium/Successful_Pairs_of_Spells_and_Potions_2300.py)       |
+| 2336   | Medium       | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/) | [Solution](Medium/Smallest_Number_in_Infinite_Set_2336.py)       |
 | 2390   | Medium       | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Solution](Medium/Removing_Stars_From_a_String_2390.py)       |
+| 2425   | Medium       | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | [Solution](Medium/Bitwise_XOR_of_All_Pairings_2425.py)       |
 | 2429   | Medium       | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | [Solution](Medium/Minimize_XOR_2429.py)       |
+| 2462   | Medium       | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/) | [Solution](Medium/Total_Cost_to_Hire_K_Workers_2462.py)       |
+| 2542   | Medium       | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/) | [Solution](Medium/Maximum_Subsequence_Score_2542.py)       |
 | 2593   | Medium       | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/) | [Solution](Medium/Find_Score_of_an_Array_After_Marking_All_Elements_2593.py)       |
 | 2657   | Medium       | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | [Solution](Medium/Find_the_Prefix_Common_Array_of_Two_Arrays_2657.py)       |
 | 3223   | Medium       | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) | [Solution](Medium/Minimum_Length_of_String_After_Operations_3223.py)       |
