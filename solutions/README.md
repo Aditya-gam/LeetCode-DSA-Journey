@@ -25,10 +25,12 @@
 | 0700   | Easy       | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Solution](Easy/Search_in_a_Binary_Search_Tree_0700.py)       |
 | 0872   | Easy       | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Solution](Easy/Leaf_Similar_Trees_0872.py)       |
 | 0933   | Easy       | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/) | [Solution](Easy/Number_of_Recent_Calls_0933.py)       |
+| 1050   | Easy       | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/) | [Solution](Easy/Actors_and_Directors_Who_Cooperated_At_Least_Three_Times_1050.py)       |
 | 1408   | Easy       | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/) | [Solution](Easy/String_Matching_in_an_Array_1408.py)       |
 | 1422   | Easy       | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) | [Solution](Easy/Maximum_Score_After_Splitting_a_String_1422.py)       |
 | 1752   | Easy       | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Solution](Easy/Check_if_Array_Is_Sorted_and_Rotated_1752.py) |
 | 2185   | Easy       | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/) | [Solution](Easy/Counting_Words_With_a_Given_Prefix_2185.py)       |
+| 2723   | Easy       | [Add Two Promises](https://leetcode.com/problems/add-two-promises/description/) | [Solution](Easy/Add_Two_Promises_2723.js)       |
 | 3042   | Easy       | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/) | [Solution](Easy/Count_Prefix_and_Suffix_Pairs_I_3042.py)       |
 | 3194   | Easy       | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description/) | [Solution](Easy/Minimum_Average_of_Smallest_and_Largest_Elements_3194.py)       |
 | 0007   | Medium       | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](Medium/Reverse_Integer_0007.py)       |
